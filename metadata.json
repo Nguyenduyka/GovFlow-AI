@@ -1,0 +1,6 @@
+{
+  "name": "GovFlow AI",
+  "description": "Nền tảng Trợ lý số UBND xã - Giải pháp điều hành hiện đại, tự động hóa quy trình hành chính và hỗ trợ ra quyết định thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
